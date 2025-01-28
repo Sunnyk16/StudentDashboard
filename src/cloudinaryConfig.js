@@ -1,4 +1,4 @@
 export const cloudinaryConfig = {
-    cloudName: "da2me5vek",
+    cloudName: "dshzjwv6f",
     uploadPreset: "dashboard",
   };
